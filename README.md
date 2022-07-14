@@ -1,1 +1,1 @@
-# CV-PrayerHall_Vacancy_Detection
+# Prayer Hall Vacancy Detection 
